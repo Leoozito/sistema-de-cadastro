@@ -7,3 +7,5 @@ Para rodar esse porjeto na sua máquina, por favor digite:
 ```
 node app.js
 ```
+
+:)
